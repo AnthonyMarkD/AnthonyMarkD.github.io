@@ -3,7 +3,7 @@ var animation = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'data3.json'
+  path: 'data4.json'
 })
 
 const navSlide = () => {

@@ -3631,25 +3631,12 @@ body.landing #header {
 	top: 0;
 }
 #banner .content header #bm {
-	width: 500px;
-	height: 282px;
-	margin: 0 auto;
+	width: 50%;
+	height: 50%;
+	
 }
 
-#banner .content .image {
-	border-radius: 100%;
-	display: inline-block;
-	height: 18em;
-	margin-left: 3em;
-	vertical-align: middle;
-	width: 18em;
-}
 
-#banner .content .image img {
-	border-radius: 100%;
-	display: block;
-	width: 100%;
-}
 
 body.is-touch #banner {
 	background-attachment: scroll;

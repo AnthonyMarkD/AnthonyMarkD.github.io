@@ -3633,6 +3633,7 @@ body.landing #header {
 #banner .content header #bm {
 	width: 500px;
 	height: 282px;
+	margin: 0 auto;
 }
 
 #banner .content .image {

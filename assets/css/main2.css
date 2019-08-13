@@ -1,5 +1,17 @@
+@import url("fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+
 html,
 body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: rgba(255, 255, 255, 0.75);
+    font-family: "Roboto", Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: 100;
+    line-height: 1.75em;
+    vertical-align: baseline;
     background: #1c1d26;
 }
 

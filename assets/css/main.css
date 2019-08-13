@@ -3569,7 +3569,6 @@ body.landing #header {
 #banner {
 	background-attachment: fixed;
 	background-color: #272833;
-	background-image: url("../../images/banner.jpg");
 	background-position: center center;
 	background-size: cover;
 	box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3630,6 +3629,10 @@ body.landing #header {
 #banner .content header p {
 	margin: 0.5em 0 0 0;
 	top: 0;
+}
+#banner .content header .bm {
+	width: 500;
+	height: 282;
 }
 
 #banner .content .image {

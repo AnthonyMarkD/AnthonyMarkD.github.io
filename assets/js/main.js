@@ -24,7 +24,7 @@
 			$body.removeClass('is-preload');
 		}, 100);
 		var animation = bodymovin.loadAnimation({
-			container: document.getElementById('bm'),
+			container: document.getElementById('landingAnimation'),
 			renderer: 'svg',
 			loop: true,
 			autoplay: true,

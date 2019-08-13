@@ -3630,7 +3630,7 @@ body.landing #header {
 	margin: 0.5em 0.5em 0 0;
 	top: 0;
 }
-#banner .content header #bm {
+#banner .content #bm {
 	margin: auto;
 }
 
